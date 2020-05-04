@@ -86,6 +86,7 @@ $config['language'] = isset($_SERVER['HTTP_ACCEPT_LANGUAGE']) ?
     [
         'ar' => 'arabic',
         'bu' => 'bulgarian',
+        'ca' => 'catalan',
         'zh' => 'chinese',
         'da' => 'danish',
         'nl' => 'dutch',
